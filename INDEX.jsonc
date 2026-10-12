@@ -1,0 +1,294 @@
+{
+  "Crypto": [
+    {
+      "name": "Power tower",
+      "hasAttachment": true
+    },
+    {
+      "name": "baby_math",
+      "hasAttachment": true
+    },
+    {
+      "name": "easy_RSA",
+      "hasAttachment": true
+    },
+    {
+      "name": "小蓝鲨的LFSR系统",
+      "hasAttachment": true
+    },
+    {
+      "name": "小蓝鲨的RSA密文",
+      "hasAttachment": true
+    },
+    {
+      "name": "小蓝鲨的密码箱",
+      "hasAttachment": false
+    },
+    {
+      "name": "小蓝鲨的费马谜题",
+      "hasAttachment": true
+    },
+    {
+      "name": "沉迷数学的小蓝鲨",
+      "hasAttachment": true
+    }
+  ],
+  "Misc": [
+    {
+      "name": "Abnormal log",
+      "hasAttachment": true
+    },
+    {
+      "name": "Guess！",
+      "hasAttachment": true
+    },
+    {
+      "name": "Image_is_all_you_need",
+      "hasAttachment": true
+    },
+    {
+      "name": "Miscrypto",
+      "hasAttachment": true
+    },
+    {
+      "name": "The truth of the pixel",
+      "hasAttachment": true
+    },
+    {
+      "name": "ez_disk",
+      "hasAttachment": true
+    },
+    {
+      "name": "冲刺！偷摸零！",
+      "hasAttachment": true
+    },
+    {
+      "name": "太极生两仪",
+      "hasAttachment": true
+    },
+    {
+      "name": "小蓝鲨的二维码",
+      "hasAttachment": true
+    },
+    {
+      "name": "小蓝鲨的千层FLAG",
+      "hasAttachment": true
+    },
+    {
+      "name": "小蓝鲨的周年庆礼物",
+      "hasAttachment": true
+    },
+    {
+      "name": "小蓝鲨的神秘文件",
+      "hasAttachment": true
+    },
+    {
+      "name": "怎么这也能掉链子",
+      "hasAttachment": true
+    },
+    {
+      "name": "星髓宝盒",
+      "hasAttachment": true
+    },
+    {
+      "name": "木林森",
+      "hasAttachment": true
+    },
+    {
+      "name": "消失的flag",
+      "hasAttachment": true
+    },
+    {
+      "name": "湖心亭看雪",
+      "hasAttachment": true
+    },
+    {
+      "name": "爱玩游戏的小蓝鲨",
+      "hasAttachment": true
+    },
+    {
+      "name": "美丽的风景照",
+      "hasAttachment": true
+    },
+    {
+      "name": "阿利维亚的传说",
+      "hasAttachment": true
+    }
+  ],
+  "Other": [
+    {
+      "name": "Molly茉莉",
+      "hasAttachment": true
+    },
+    {
+      "name": "OSINT-1",
+      "hasAttachment": true
+    },
+    {
+      "name": "OSINT-2",
+      "hasAttachment": false
+    },
+    {
+      "name": "OSINT-3",
+      "hasAttachment": false
+    },
+    {
+      "name": "hacker",
+      "hasAttachment": true
+    },
+    {
+      "name": "奇怪的shell文件",
+      "hasAttachment": true
+    },
+    {
+      "name": "病毒分析",
+      "hasAttachment": false
+    },
+    {
+      "name": "老朋友、老朋友们和新朋友们",
+      "hasAttachment": false
+    }
+  ],
+  "Pwn": [
+    {
+      "name": "2048",
+      "hasAttachment": true
+    },
+    {
+      "name": "bad_box",
+      "hasAttachment": true
+    },
+    {
+      "name": "ez_fmt",
+      "hasAttachment": true
+    },
+    {
+      "name": "ez_stack",
+      "hasAttachment": true
+    },
+    {
+      "name": "ez_tcache",
+      "hasAttachment": true
+    },
+    {
+      "name": "heap?",
+      "hasAttachment": true
+    },
+    {
+      "name": "myvm",
+      "hasAttachment": true
+    },
+    {
+      "name": "ret2rop",
+      "hasAttachment": true
+    },
+    {
+      "name": "来签个到吧",
+      "hasAttachment": true
+    },
+    {
+      "name": "金丝雀的诱惑",
+      "hasAttachment": true
+    }
+  ],
+  "Reverse": [
+    {
+      "name": "ELF",
+      "hasAttachment": true
+    },
+    {
+      "name": "MysteriousStream",
+      "hasAttachment": true
+    },
+    {
+      "name": "ReCall",
+      "hasAttachment": true
+    },
+    {
+      "name": "VM_cool",
+      "hasAttachment": true
+    },
+    {
+      "name": "ez_xtea",
+      "hasAttachment": true
+    },
+    {
+      "name": "ezpy",
+      "hasAttachment": true
+    },
+    {
+      "name": "ezzz_math",
+      "hasAttachment": true
+    },
+    {
+      "name": "小蓝鲨的单片机_1",
+      "hasAttachment": true
+    },
+    {
+      "name": "小蓝鲨的单片机_2",
+      "hasAttachment": true
+    },
+    {
+      "name": "我的明天叫做昨天",
+      "hasAttachment": true
+    }
+  ],
+  "Web": [
+    {
+      "name": "Bypass",
+      "hasAttachment": true
+    },
+    {
+      "name": "Who am I",
+      "hasAttachment": true
+    },
+    {
+      "name": "b@by n0t1ce b0ard",
+      "hasAttachment": true
+    },
+    {
+      "name": "ezpop",
+      "hasAttachment": true
+    },
+    {
+      "name": "ezrce",
+      "hasAttachment": false
+    },
+    {
+      "name": "flag到底在哪",
+      "hasAttachment": false
+    },
+    {
+      "name": "flag？我就借走了",
+      "hasAttachment": true
+    },
+    {
+      "name": "include_upload",
+      "hasAttachment": true
+    },
+    {
+      "name": "kaqiWeaponShop",
+      "hasAttachment": true
+    },
+    {
+      "name": "load_jvav",
+      "hasAttachment": true
+    },
+    {
+      "name": "mv_upload",
+      "hasAttachment": true
+    },
+    {
+      "name": "双生序列",
+      "hasAttachment": true
+    },
+    {
+      "name": "来签个到吧",
+      "hasAttachment": true
+    },
+    {
+      "name": "难过的bottle",
+      "hasAttachment": false
+    }
+  ]
+}
