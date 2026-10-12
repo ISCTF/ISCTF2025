@@ -21,7 +21,7 @@
 
 ## 文件还原
 
-解压两个附件后，在同一目录运行以下命令，还原原始文件：
+原附件中的大文件为 100 MiB，整包超过 GitHub 的单文件大小限制，因此拆成两段分别打包。解压两个附件后，在同一目录运行以下命令，将两段拼接回原始文件 `此地无flag三百条`：
 
 - Linux/macOS：`cat challenge.part1 challenge.part2 > 此地无flag三百条`
 - Windows：`copy /b challenge.part1+challenge.part2 此地无flag三百条`
