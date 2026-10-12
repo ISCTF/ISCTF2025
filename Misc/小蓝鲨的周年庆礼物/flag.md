@@ -1,0 +1,4 @@
+- 真
+    - ISCTF{VC_15_s0OO0O0O_1n73r3571n6!!}
+- 假
+    - ISCTF{VC_15_s0O0O0O0_1n73r3571n6!!}
